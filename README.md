@@ -21,3 +21,8 @@ TABLE OF CONTENT
 [Insight](#Insight)
 
 [Recommendation](#Recommendation)
+
+### Project Overview
+---
+The goal of this project is to explore and analyse Netflix's content library to uncover trends, patterns, and insights related to its titles. 
+This includes evaluating content distribution by genre, country, release year, and ratings, as well as identifying user-relevant insights such as content availabiltty and popularity 
