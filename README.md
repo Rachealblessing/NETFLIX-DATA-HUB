@@ -33,4 +33,13 @@ The dataset used is a publicly available Netflix dataset from Kaggle, which incl
 
 ### Tool Used
 ---
-
+- Microsoft Excel
+  1. For data cleaning
+  2. For data preparations
+- SQL - Structured Query Language
+  1. For Manipulation of data
+  2. For extraction of data
+- Power BI
+  1. For data visualization
+- GITHUB
+  1. For portfolio building
