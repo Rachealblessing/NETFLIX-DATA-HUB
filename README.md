@@ -25,4 +25,12 @@ TABLE OF CONTENT
 ### Project Overview
 ---
 The goal of this project is to explore and analyse Netflix's content library to uncover trends, patterns, and insights related to its titles. 
-This includes evaluating content distribution by genre, country, release year, and ratings, as well as identifying user-relevant insights such as content availabiltty and popularity 
+This includes evaluating content distribution by genre, country, release year, and ratings, as well as identifying user-relevant insights such as content availabiltty and popularity
+
+### Data Source
+---
+The dataset used is a publicly available Netflix dataset from Kaggle, which includes information on movies and TV shows available on the platform, including title, genre, cast, country, release year, duration, and user ratings
+
+### Tool Used
+---
+
