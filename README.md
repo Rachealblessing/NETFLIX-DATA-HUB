@@ -46,5 +46,7 @@ The dataset used is a publicly available Netflix dataset from Kaggle, which incl
 
 ### Data Cleaning
 ---
-prior to importing the netflix dataset into SQL, i performed essential cleaning in Excel- removing duplicates, addressing missing values, standardizing twxt formats, and verifying data types- to ensure data integrity and optimize it for analysis
+Prior to importing the netflix dataset into SQL, i performed essential cleaning in Excel- removing duplicates, addressing missing values, standardizing text formats, and verifying data types- to ensure data integrity and optimize it for analysis
+
+
 
