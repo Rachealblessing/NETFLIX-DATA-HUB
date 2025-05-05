@@ -158,6 +158,26 @@ This visual project highlights content trends, growth, and diversity across NETF
 
 ![netflix github 2](https://github.com/user-attachments/assets/38c843bd-4e10-4ad7-ba0b-f6e86a9e2548)
 
+### Insight
+---
+
+- Most of Netflix's content is movies- around 70%
+- People love watching dramas, documentaries, and comedies.
+- A lot of show are rated TV-MA OR TV-14, so they are mostly for teens and adults
+- Countries like the US, India,UK,Japan and South korea have the most titles.
+- Netflix added a ton of content between 2019 and 2021
+
+### Recommendations
+---
+
+- Add more TV series - they keep people watching longer.
+- Mix in more Variety - like sci-fi, kids shows, or leser-known genres
+- Create more family-friendly content to reach all age groups
+- keep investing in local content for fast- growing countries.
+- Keep investing in local content for fast-growing countries
+- Shine a spotlight on some of the classic old titles- there's a market for them too
+
+
 
 
 
