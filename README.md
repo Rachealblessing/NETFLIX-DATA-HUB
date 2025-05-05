@@ -59,16 +59,87 @@ Prior to importing the netflix dataset into SQL, i performed essential cleaning 
 
   ![SQL N1](https://github.com/user-attachments/assets/64c9e7fc-b5d6-4ae3-8f98-7c57fd164b32)
   
+  ```sql
+  select type,
+  count(*) as total_count
+  from[dbo].[Netflix data]
+  where
+  type is not null
+  group by
+  type;
+  ```
 
   ![SQL N2](https://github.com/user-attachments/assets/9f7a2e75-f1d3-4a4c-8966-3a124d27e50a)
 
+  ```sql
+  select top 10
+  country,
+  count(*)as title_count
+  from
+  [dbo].[Netflix data]
+  where
+  country is not null
+  group by
+  country
+  order by
+  title_count desc
+  ```
+
   ![SQL N3](https://github.com/user-attachments/assets/bf007ea5-2bf8-439f-adc2-3b3f199720aa)
 
+  ```sql
+  select top 1
+  rating,
+  count(*) as movie_count
+  from [dbo].[Netflix data]
+  where
+  type='movie'and
+  rating is not null
+  group by
+  rating
+  order by
+  movie_count desc;
+  ```
+
   ![SQL N4](https://github.com/user-attachments/assets/f7835892-ea61-4b0f-bc79-66930f0ac0f9)
+  
+```sql
+  select top 5 director,
+  count(*)as total_titles
+  from[dbo].[Netflix data]
+  where directorbis not null
+  group by
+  director
+  order by
+  total_titles desc;
+  ```
+  
 
   ![SQL N5](https://github.com/user-attachments/assets/1787070d-98e0-4833-ace3-fd5ce068c699)
 
+  ```sql
+select title,
+date_added
+from {dbo}.{Netflix data]
+where
+TRY_CAST(date_added as date) is not null and
+year(cast(date_added as date))=2024;
+```
+
   ![SQL N6](https://github.com/user-attachments/assets/cc8b70c1-38b8-4976-a4ef-b340abd4c2ac)
+
+  ```sql
+select top 5
+listed_in
+count(*)as total_titles
+from[dbo].[Netflix data]
+where
+listed_in is not null
+group by
+listed_in
+order by
+total_titles desc;
+```
 
 
 
