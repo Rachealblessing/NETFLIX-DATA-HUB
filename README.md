@@ -1,3 +1,4 @@
+
 # NETFLIX-DATA-HUB
 Project hub for analyzing Netflix datasets, generating trends, and building visualizations
 
@@ -55,4 +56,23 @@ Prior to importing the netflix dataset into SQL, i performed essential cleaning 
 - Top 5 director with most content
 - Title added in 2024
 - Top 5 genre with most content
+
+  ![SQL N1](https://github.com/user-attachments/assets/64c9e7fc-b5d6-4ae3-8f98-7c57fd164b32)
+  
+
+  ![SQL N2](https://github.com/user-attachments/assets/9f7a2e75-f1d3-4a4c-8966-3a124d27e50a)
+
+  ![SQL N3](https://github.com/user-attachments/assets/bf007ea5-2bf8-439f-adc2-3b3f199720aa)
+
+  ![SQL N4](https://github.com/user-attachments/assets/f7835892-ea61-4b0f-bc79-66930f0ac0f9)
+
+  ![SQL N5](https://github.com/user-attachments/assets/1787070d-98e0-4833-ace3-fd5ce068c699)
+
+  ![SQL N6](https://github.com/user-attachments/assets/cc8b70c1-38b8-4976-a4ef-b340abd4c2ac)
+
+
+
+
+
+
 
