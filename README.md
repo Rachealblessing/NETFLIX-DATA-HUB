@@ -50,6 +50,8 @@ The dataset used is a publicly available Netflix dataset from Kaggle, which incl
 Prior to importing the netflix dataset into SQL, i performed essential cleaning in Excel- removing duplicates, addressing missing values, standardizing text formats, and verifying data types- to ensure data integrity and optimize it for analysis
 
 ### Exploratoy Data Analysis
+---
+# SQL
 - How many movies and tv shows available on netflix
 - Top 10 countries producing most netflix content
 - Most common rating for movie
