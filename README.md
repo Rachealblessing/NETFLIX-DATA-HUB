@@ -143,6 +143,12 @@ order by
 total_titles desc;
 ```
 
+### Data Visualization
+---
+![Netflix proof github](https://github.com/user-attachments/assets/7e52ab7e-2ecc-4a04-bb6d-aec4756d4b1a)
+
+![netflix github 2](https://github.com/user-attachments/assets/38c843bd-4e10-4ad7-ba0b-f6e86a9e2548)
+
 
 
 
