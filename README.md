@@ -145,6 +145,15 @@ total_titles desc;
 
 ### Data Visualization
 ---
+
+An interactive Power BI dashboard exploring Netflix's global catalog of over 26000 titles across 750+ countries. Key insight include:
+- 69.6%Movies, 30.4% TV shows
+- Top Countries: United States, India, UK, Japan, South Korea
+- Content spans from 1925 to 2021
+- Popular genres: Dramas, Documentaries,Comedies
+- Most common ratings: TV-MA, TV-14
+This visual project highlights content trends, growth, and diversity across NETFLIX'S library
+
 ![Netflix proof github](https://github.com/user-attachments/assets/7e52ab7e-2ecc-4a04-bb6d-aec4756d4b1a)
 
 ![netflix github 2](https://github.com/user-attachments/assets/38c843bd-4e10-4ad7-ba0b-f6e86a9e2548)
